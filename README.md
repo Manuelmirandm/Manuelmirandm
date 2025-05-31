@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Manuel Miranda Martínez  
 
-<!--
-**Manuelmirandm/Manuelmirandm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Técnico de Sistemas | 🌐 Desarrollador Web | 🛠️ Especialista en Hardware**  
 
-Here are some ideas to get you started:
+🔗 [Portfolio](https://mmirandamartinez.com) | 📧 contacto@mmirandamartinez.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Banner de GitHub](https://via.placeholder.com/1200x400/333/ffffff?text=Bienvenido+a+mi+GitHub)  
+
+## 🔥 Tecnologías y Habilidades  
+- **Desarrollo Web**: HTML, CSS, JavaScript, PHP  
+- **Hardware**: Ensamblaje de PCs, Mantenimiento, Ubuntu/Linux  
+- **Herramientas**: Git, Bash, Docker  
+
+## 🚀 Proyectos Destacados  
+1. [Ubuntu Fan Page](https://mmirandamartinez.com/ubuntu) - Web tributo a Ubuntu. *(Próximamente en GitHub)*  
+2. [Scripts de Mantenimiento](https://github.com/Manuelmirandm/scripts-pc) - Automatización para técnicos.  
+3. [Mi Portfolio](https://mmirandamartinez.com) - Código fuente en [este repo](https://github.com/Manuelmirandm/portfolio).  
+
+## 📊 Estadísticas  
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Manuelmirandm&show_icons=true&theme=dark)](https://github.com/Manuelmirandm)  
